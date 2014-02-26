@@ -4,3 +4,6 @@
 [submodule "Odometry"]
 	path = Odometry
 	url = https://github.com/kanetkarster/DPM-Winter-2014-Lab-2.git
+[submodule "Navigation"]
+	path = Navigation
+	url = https://github.com/kanetkarster/DPM-Lab-3-Group-21.git
