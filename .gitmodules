@@ -7,3 +7,6 @@
 [submodule "Navigation"]
 	path = Navigation
 	url = https://github.com/kanetkarster/DPM-Lab-3-Group-21.git
+[submodule "Localization"]
+	path = Localization
+	url = https://github.com/kanetkarster/DPM-Group21-Lab4-Localization.git
