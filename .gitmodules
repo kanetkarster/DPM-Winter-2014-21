@@ -10,3 +10,6 @@
 [submodule "Localization"]
 	path = Localization
 	url = https://github.com/kanetkarster/DPM-Group21-Lab4-Localization.git
+[submodule "Block-Detecton/Lab5"]
+	path = Block-Detecton/Lab5
+	url = https://github.com/kanetkarster/BlockDetection.git
