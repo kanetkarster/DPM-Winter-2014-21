@@ -10,3 +10,6 @@
 [submodule "Block-Detecton/Lab5"]
 	path = Block-Detecton/Lab5
 	url = https://github.com/kanetkarster/BlockDetection.git
+[submodule "Wall-Follower/Lab1"]
+	path = Wall-Follower/Lab1
+	url = https://github.com/kanetkarster/DPM-W2014-Group-21.git
