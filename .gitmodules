@@ -13,3 +13,6 @@
 [submodule "Wall-Follower/Lab1"]
 	path = Wall-Follower/Lab1
 	url = https://github.com/kanetkarster/DPM-W2014-Group-21.git
+[submodule "DPM-Code"]
+	path = DPM-Code
+	url = https://github.com/kanetkarster/DPM-Code.git
